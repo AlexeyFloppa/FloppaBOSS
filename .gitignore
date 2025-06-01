@@ -1,0 +1,24 @@
+# Flutter build & cache
+build/
+.dart_tool/
+.packages
+.pub-cache/
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-versions
+.metadata
+
+# IDE settings
+.vscode/
+.idea/
+*.iml  # e.g., floppa_boss.iml
+
+# Platform folders you don't use
+android/
+ios/
+windows/
+macos/
+linux/
+web/
+test/
+flows/
